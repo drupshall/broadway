@@ -57,6 +57,17 @@ p{
   color: white;
 }
 
+p.footer{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+ul.footer{
+  display: inline;
+}
+
 ul{
   margin: 50px 0 0 0;
   color: white;
