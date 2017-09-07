@@ -5,7 +5,8 @@ h1{
 
 h1,
 h2,
-h3{
+h3,
+a{
   font-weight: bold;
 }
 
@@ -13,7 +14,8 @@ h1,
 h2,
 h3,
 p,
-ul{
+ul,
+a{
   font-family: Helvetica;
   text-align: center;
 }
@@ -34,6 +36,10 @@ h3{
 
 p{
   font-size: 14px;
+}
+
+a{
+  color: white;
 }
 
 #top-banner{
